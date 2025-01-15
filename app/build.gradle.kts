@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "ro.pub.cs.systems.eim.practicaltest02v2"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "ro.pub.cs.systems.eim.practicaltest02v2"
